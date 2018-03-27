@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+
+    <string name="add_name_hint">Full name</string>
+    <string name="add_phone_hint">Phone number</string>
+    <string name="add_address_hint">Address</string>
+    <string name="add_add">ADD</string>
+    <string name="add_cancel">CANCEL</string>
+
+    <string name="detail_name">Fullname</string>
+    <string name="detail_phone">Phone Number</string>
+    <string name="detail_address">Address</string>
+    <string name="detail_gender">Gender</string>
+    <string name="detail_date">Date</string>
+    <string name="detail_time">Time</string>
+
+</resources>
